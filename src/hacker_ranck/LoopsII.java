@@ -3,7 +3,7 @@ package hacker_ranck;
 import java.util.Scanner;
 
 public class LoopsII {
-    public static void main(String []argh){
+    public static void main(String []args){
         Scanner in = new Scanner(System.in);
         int q=in.nextInt();
         if(q>=0 && q<=500) {

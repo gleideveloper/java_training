@@ -3,7 +3,7 @@ package hacker_ranck;
 import java.util.Scanner;
 
 public class Datatypes {
-    public static void main(String[] argh) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
 
