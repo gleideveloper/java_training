@@ -19,8 +19,8 @@ public class MainBufferedReader {
 //        System.out.println("Resposta: y = " + y);
 //        System.out.println("Resposta: z = " + z);
 //        handleFolderFiles();
-//        usingBufferedWriterFileWriter();
-//        usingBufferedReaderFileReader();
+        usingBufferedWriterFileWriter();
+        usingBufferedReaderFileReader();
     }
 
     private static void usingBufferedReaderFileReader() {
