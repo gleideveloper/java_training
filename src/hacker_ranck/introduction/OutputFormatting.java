@@ -1,4 +1,4 @@
-package hacker_ranck;
+package hacker_ranck.introduction;
 
 import java.util.Scanner;
 
